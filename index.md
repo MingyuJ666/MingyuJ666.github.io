@@ -24,6 +24,5 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 - **[6/2023]** Graduated from XJTLU!!!
 
 
-{% include_relative _includes/publications.md %}
 {% include_relative _includes/teaching.md %}
 {% include_relative _includes/services.md %}

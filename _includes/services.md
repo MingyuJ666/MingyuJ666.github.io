@@ -71,7 +71,6 @@
 - [Image Blending Algorithm with Automatic Mask Generation]
 
   Haochen Xue🌟, **Mingyu Jin🌟**, Chong Zhang, Yuxuan Huang, Qian Weng, Xiaobo Jin
-## Services
-- Conference reviewing: RecSys 2024
+
   
 

@@ -28,3 +28,4 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
   
 {% include_relative _includes/teaching.md %}
 {% include_relative _includes/services.md %}
+{% include_relative _includes/publication.md %}

@@ -63,7 +63,14 @@
 
   Chong Zhang, **Mingyu Jin**, Qinkai Yu, Chengzhi Liu, Haochen Xue, Xiaobo Jin
 
+### Computer Version
+-[Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning](https://arxiv.org/abs/2309.01390)
+ 
+  Chong Zhang🌟, **Mingyu Jin🌟**, Qinkai Yu, Haochen Xue, Shreyank N Gowda, Xiaobo Jin
 
+-[Image Blending Algorithm with Automatic Mask Generation]
+
+  Haochen Xue🌟, **Mingyu Jin🌟**, Chong Zhang, Yuxuan Huang, Qian Weng, Xiaobo Jin
 ## Services
 - Conference reviewing: RecSys 2024
   

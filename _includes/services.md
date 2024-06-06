@@ -1,4 +1,4 @@
-## Recent Research Project and Research framework
+## Recent Research Project and Research Framework
 🌟 means equal contributor
 ### Explainability and Trustworthy of Large Language Model 
 - [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/abs/2402.10835)
@@ -55,13 +55,14 @@
   Hanrong Zhang, Zhenting Wang, Tingxu Han, **Mingyu Jin**, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma
 - [AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](https://arxiv.org/abs/2401.09002)
 
-  Dong shu, Mingyu Jin, Suiyuan Zhu, Beichen Wang, Zihao Zhou, Chong Zhang, Yongfeng Zhang
+  Dong shu, **Mingyu Jin**, Suiyuan Zhu, Beichen Wang, Zihao Zhou, Chong Zhang, Yongfeng Zhang
 - [Assessing Prompt Injection Risks in 200+ Custom GPTs](https://arxiv.org/abs/2311.11538)
 
   Jiahao Yu, Yuhang Wu, Dong Shu, **Mingyu Jin**, Sabrina Yang, Xinyu Xing
 - [Goal-guided Generative Prompt Injection Attack on Large Language Models](https://arxiv.org/pdf/2404.07234)
 
   Chong Zhang, **Mingyu Jin**, Qinkai Yu, Chengzhi Liu, Haochen Xue, Xiaobo Jin
+
 ## Services
 
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewing</h4> -->

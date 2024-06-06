@@ -1,6 +1,10 @@
 ## Recent Research Project and Research Framework
 🌟 means equal contributor
 ### Explainability and Trustworthy of Large Language Model 
+- [Disentangling Logic: The Role of Context in Large Language Model Reasoning Capabilities](https://arxiv.org/pdf/2406.02787)
+
+  Wenyue Hua, Kaijie Zhu, Lingyao Li, Lizhou Fan, Shuhang Lin, **Mingyu Jin**, Haochen Xue, Zelong Li, JinDong Wang, Yongfeng Zhang
+  
 - [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/abs/2402.10835)
 
   Hua Tang🌟, Chong Zhang🌟, **Mingyu Jin🌟**, Qinkai Yu, Chengzhi Liu, Suiyuan Zhu, Yongfeng Zhang, Mengnan Du

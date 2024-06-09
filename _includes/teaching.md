@@ -1,7 +1,7 @@
 ## Publication
 *🌟 means equal first author*
 
-- [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925) (**ACL 2024, Findings**)
+- [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925) (**ACL 2024, Findings**) [Code is here](https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models)
 
   **Mingyu Jin**, Qinkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du
 

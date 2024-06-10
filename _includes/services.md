@@ -1,6 +1,10 @@
 ## Recent Research Project and Research Framework
 🌟 means equal contributor
 ### Explainability and Trustworthy of Large Language Model 
+- [MoralBench: Moral Evaluation of LLMs](https://arxiv.org/pdf/2406.04428)
+
+  Jianchao Ji, Yutong Chen, **Mingyu Jin**, Wujiang Xu, Wenyue Hua, Yongfeng Zhang
+
 - [Disentangling Logic: The Role of Context in Large Language Model Reasoning Capabilities](https://arxiv.org/pdf/2406.02787)
 
   Wenyue Hua, Kaijie Zhu, Lingyao Li, Lizhou Fan, Shuhang Lin, **Mingyu Jin**, Haochen Xue, Zelong Li, JinDong Wang, Yongfeng Zhang

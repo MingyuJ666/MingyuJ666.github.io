@@ -1,6 +1,8 @@
 ## Publication
 *🌟 means equal first author*
-
+- [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586)(**TiFA@ICML 2024**)
+  
+  Wenyue Hua, Xianjun Yang, **Mingyu Jin**, Zelong Li, Wei Cheng, Ruixiang Tang, Yongfeng Zhang
 - [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925) (**ACL 2024, Findings**) 
 
   **Mingyu Jin**, Qinkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du

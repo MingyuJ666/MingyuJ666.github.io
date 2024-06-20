@@ -13,6 +13,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 
 ## News
 - **[06/2024]** I was invited to give a talk about Prollm@Nice
+- **[06/2024]** One paper was accepted by TiFA@ICML 2024
 - **[05/2024]** One paper was accepted by ACL2024, thanks@Qinkai 
 - **[04/2024]** Check Our Preprint: [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066#:~:text=10%20Apr%202024%5D-,Exploring%20Concept%20Depth%3A%20How%20Large%20Language,Acquire%20Knowledge%20at%20Different%20Layers%3F&text=This%20paper%20studies%20the%20phenomenon,fully%20acquired%20with%20deeper%20layers.) about the concept depth in LLM.
 - **[02/2024]** Give a talk@Zhiyuan 

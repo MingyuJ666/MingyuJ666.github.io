@@ -71,7 +71,7 @@
 
   Chong Zhang, **Mingyu Jin**, Qinkai Yu, Chengzhi Liu, Haochen Xue, Xiaobo Jin
 
-### Computer Version
+### Computer Vision
 - [Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning](https://arxiv.org/abs/2309.01390)
  
   Chong Zhang🌟, **Mingyu Jin🌟**, Qinkai Yu, Haochen Xue, Shreyank N Gowda, Xiaobo Jin

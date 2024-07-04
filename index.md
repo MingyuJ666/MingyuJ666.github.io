@@ -12,6 +12,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 **XAI**, **LLM Agent**, **AI4SCIENCE**
 
 ## News
+- **[06/2024]** One paper was accepted by ECAI2024, thanks@Chong 
 - **[06/2024]** I was invited to give a talk about Prollm@Nice
 - **[06/2024]** One paper was accepted by TiFA@ICML 2024
 - **[05/2024]** One paper was accepted by ACL2024, thanks@Qinkai 

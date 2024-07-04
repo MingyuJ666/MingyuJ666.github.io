@@ -70,6 +70,9 @@
 - [Goal-guided Generative Prompt Injection Attack on Large Language Models](https://arxiv.org/pdf/2404.07234)
 
   Chong Zhang, **Mingyu Jin**, Qinkai Yu, Chengzhi Liu, Haochen Xue, Xiaobo Jin
+- Target-driven Attack for Large Language Models
+  
+  Chong Zhang🌟, **Mingyu Jin🌟**, Dong Shu, Taowen Wang, Dongfang Liu, Jinbo Jin
 
 ### Computer Vision
 - [Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning](https://arxiv.org/abs/2309.01390)

@@ -1,5 +1,9 @@
 ## Publication
 *🌟 means equal first author*
+- Target-driven Attack for Large Language Models(**ECAI2024**)
+
+  Chong Zhang🌟, **Mingyu Jin🌟**, Dong Shu, Taowen Wang, Dongfang Liu, Jinbo Jin
+
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586)(**TiFA@ICML 2024**)
   
   Wenyue Hua, Xianjun Yang, **Mingyu Jin**, Zelong Li, Wei Cheng, Ruixiang Tang, Yongfeng Zhang

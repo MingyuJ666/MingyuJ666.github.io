@@ -12,7 +12,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 **XAI**, **LLM Agent**, **AI4SCIENCE**
 
 ## News
-- **[06/2024]** Our Paper: [Simulating Alien Civilizations with LLM-based Agent](https://arxiv.org/abs/2402.13184) was reported by this website: [https://thedebrief.org/cutting-edge-ai-program-cosmoagent-simulates-first-contact-with-alien-civilizations/](https://thedebrief.org/cutting-edge-ai-program-cosmoagent-simulates-first-contact-with-alien-civilizations/)
+- **[06/2024]** Our Paper: [Simulating Alien Civilizations with LLM-based Agent](https://arxiv.org/abs/2402.13184) was reported by [this website.](https://thedebrief.org/cutting-edge-ai-program-cosmoagent-simulates-first-contact-with-alien-civilizations/)
 - **[06/2024]** One paper was accepted by **ECAI2024**, thanks@Chong 
 - **[06/2024]** I was invited to give a talk about Prollm@Nice
 - **[06/2024]** One paper was accepted by TiFA@ICML 2024

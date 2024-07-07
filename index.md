@@ -23,9 +23,9 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 - **[01/2024]** Start my trip to New York, the most unforgettable journey of my life.
 - **[01/2024]** Check Our Preprint: [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/pdf/2401.04925.pdf) about how Cot works.
 - **[12/2023]** One paper was accepted by **AAAI2024**
-- **[9/2023]** Started my visit to Northwestern University!!!
-- **[7/2023]** One paper was accepted by ICONIP2023.
-- **[6/2023]** Graduated from XJTLU!!!
+- **[09/2023]** Started my visit to Northwestern University!!!
+- **[07/2023]** One paper was accepted by ICONIP2023.
+- **[06/2023]** Graduated from XJTLU!!!
 
 ## Services
 - Conference reviewing: RecSys 2024

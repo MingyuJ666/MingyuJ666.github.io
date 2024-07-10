@@ -1,5 +1,8 @@
 ## Publication
 *🌟 means equal first author*
+- [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1) (**COLM2024**)
+
+  Mingyu Jin, Haochen Xue, Zhenting Wang, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang
 - Target-driven Attack for Large Language Models(**ECAI2024**)
 
   Chong Zhang🌟, **Mingyu Jin🌟**, Dong Shu, Taowen Wang, Dongfang Liu, Jinbo Jin

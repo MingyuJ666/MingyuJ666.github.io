@@ -9,7 +9,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 
 ## Research Interests
 
-**XAI**, **LLM Agent**, **AI4SCIENCE**, ****
+**XAI**, **LLM Agent**, **AI4SCIENCE**, **Data Mining**
 
 ## News
 - **[07/2024]** One Paper was accepted by **COLM2024**

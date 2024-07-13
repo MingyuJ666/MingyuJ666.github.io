@@ -9,7 +9,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 
 ## Research Interests
 
-**XAI**, **LLM Agent**, **AI4SCIENCE**
+**XAI**, **LLM Agent**, **AI4SCIENCE**, ****
 
 ## News
 - **[07/2024]** One Paper was accepted by **COLM2024**
@@ -26,7 +26,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 - **[12/2023]** One paper was accepted by **AAAI2024**
 - **[09/2023]** Started my visit to Northwestern University!!!
 - **[07/2023]** One paper was accepted by ICONIP2023.
-- **[06/2023]** Graduated from XJTLU!!!
+
 
 ## Services
 - Conference reviewing: RecSys 2024

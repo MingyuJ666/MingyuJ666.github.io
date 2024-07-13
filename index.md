@@ -31,6 +31,6 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 ## Services
 - Conference reviewing: RecSys 2024
   
-{% include_relative _includes/teaching.md %}
-{% include_relative _includes/services.md %}
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publication.md %}
+{% include_relative _includes/project.md %}
+{% include_relative _includes/interest.md %}

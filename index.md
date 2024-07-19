@@ -12,6 +12,7 @@ I am an incoming graduate student at the [Department of Computer Science, Rutger
 **XAI**, **LLM Agent**, **AI4SCIENCE**, **Data Mining**
 
 ## News
+- **[07/2024]** Please check our preprint about [Manipulating Uncertainty in Large Language Models](https://arxiv.org/abs/2407.11282)
 - **[07/2024]** One Paper was accepted by **COLM2024**
 - **[07/2024]** Our Paper: [Simulating Alien Civilizations with LLM-based Agent](https://arxiv.org/abs/2402.13184) was reported by [this website.](https://thedebrief.org/cutting-edge-ai-program-cosmoagent-simulates-first-contact-with-alien-civilizations/)
 - **[07/2024]** One paper was accepted by **ECAI2024**, thanks@Chong 

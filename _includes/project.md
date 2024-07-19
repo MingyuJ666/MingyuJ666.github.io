@@ -58,6 +58,11 @@
   Dong Shu, Tianle Chen, **Mingyu Jin**, Yiting Zhang, Chong Zhang, Mengnan Du, Yongfeng Zhang
 
 ### Security 
+
+- [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/abs/2407.11282)
+
+  Qingcheng Zeng, Mingyu Jin, Qinkai Yu, Zhenting Wang, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang
+
 - [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672)
 
   Hanrong Zhang, Zhenting Wang, Tingxu Han, **Mingyu Jin**, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma

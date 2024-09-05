@@ -12,6 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **XAI**, **LLM Agent**, **AI4SCIENCE**, **Data Mining**
 
 ## News
+- **[09/2024]** One paper was accepted by **ACML2024**
 - **[08/2024]** One survey was accepted by **Journal of Healthcare Informatics Research(IF=5.7)**
 - **[08/2024]** Please check our preprint and code about [Stockagent](https://arxiv.org/abs/2407.18957)
 - **[07/2024]** Please check our preprint about [Manipulating Uncertainty in Large Language Models](https://arxiv.org/abs/2407.11282)

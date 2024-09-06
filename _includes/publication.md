@@ -12,6 +12,10 @@
   **Mingyu Jin**, Qinkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du
 
 
-- [MathAttack: Attacking Large Language Models towards Math Solving Ability](https://ojs.aaai.org/index.php/AAAI/article/view/29949) (**AAAI 2024**)
+- [MathAttack: Attacking Large Language Models towards Math Solving Ability](https://ojs.aaai.org/index.php/AAAI/article/view/29949) (**AAAI2024**)
 
   Zihao Zhou, Qiufeng Wang, **Mingyu Jin**, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang, Kaizhu Huang
+
+- [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction](https://arxiv.org/abs/2403.07311) (**ACML2024**)
+
+  Dong Shu, Tianle Chen, **Mingyu Jin**, Chong Zhang, Mengnan Du, Yongfeng Zhang

@@ -12,6 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **XAI**, **LLM Agent**, **AI4SCIENCE**, **Data Mining**
 
 ## News
+- **[09/2024]** Two paper was accepted by **EMNLP 2024**
 - **[09/2024]** One paper was accepted by **ICDM 2024**
 - **[09/2024]** One paper was accepted by **ACML 2024**
 - **[08/2024]** One survey was accepted by **Journal of Healthcare Informatics Research(IF=5.7)**

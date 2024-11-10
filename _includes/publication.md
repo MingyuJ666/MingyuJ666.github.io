@@ -1,5 +1,5 @@
 ## Publication
-- [Adaptive Axes: A Pipeline for In-domain Social Stereotype Analysis](https://openreview.net/forum?id=V190fk6SfM#discussion) (**EMNLP 2024**)
+- [Adaptive Axes: A Pipeline for In-domain Social Stereotype Analysis](https://aclanthology.org/2024.emnlp-main.872/) (**EMNLP 2024**)
 
   Qingcheng Zeng, **Mingyu Jin**, Rob Voigt
   

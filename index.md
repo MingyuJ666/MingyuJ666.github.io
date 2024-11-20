@@ -38,6 +38,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 
 ## Services
 - Conference reviewing: RecSys 2024, NeurIPS 2024, ICLR 2024
+- Journal reviewing: ACM Transactions on Recommender Systems
   
 {% include_relative _includes/publication.md %}
 {% include_relative _includes/project.md %}

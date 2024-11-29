@@ -1,4 +1,8 @@
 ## Publication
+- [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066) (**COLING 2025**)
+
+  **Mingyu Jin🌟**, Qinkai Yu🌟, Jingyuan Huang🌟, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
+  
 - [Adaptive Axes: A Pipeline for In-domain Social Stereotype Analysis](https://aclanthology.org/2024.emnlp-main.872/) (**EMNLP 2024**)
 
   Qingcheng Zeng, **Mingyu Jin**, Rob Voigt

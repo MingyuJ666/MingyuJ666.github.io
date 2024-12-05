@@ -9,7 +9,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 
 ## Research Interests
 
-**XAI**, **LLM Agent**, **AI4SCIENCE**, **Data Mining**
+**Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
 
 ## News
 - **[11/2024]** Check our new preprint about [Disentangling Memory and Reasoning in LLM](https://arxiv.org/abs/2411.13504)

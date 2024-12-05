@@ -12,8 +12,9 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **XAI**, **LLM Agent**, **AI4SCIENCE**, **Data Mining**
 
 ## News
+- **[11/2024]** Check our new preprint about [Disentangling Memory and Reasoning in LLM](https://arxiv.org/abs/2411.13504)
 - **[11/2024]** One paper was accepted by **COLING 2025**
-- **[11/2024]** Check our new version about the paper [LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
+- **[11/2024]** Check our new version of the paper [LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
 - **[10/2024]** One paper was accepted by **EMNLP 2024 Demo Track**
 - **[09/2024]** Two paper was accepted by **EMNLP 2024**
 - **[09/2024]** One paper was accepted by **ICDM 2024**

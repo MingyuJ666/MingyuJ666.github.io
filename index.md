@@ -12,7 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
 
 ## News
-- **[11/2024]** One paper was accepted by **SIGKDD Explorations Newsletter**
+- **[12/2024]** One paper was accepted by **SIGKDD Explorations Newsletter**
 - **[11/2024]** Check our new preprint about [Disentangling Memory and Reasoning in LLM](https://arxiv.org/abs/2411.13504)
 - **[11/2024]** One paper was accepted by **COLING 2025**
 - **[11/2024]** Check our new version of the paper [LLM Agent Operating System](https://arxiv.org/abs/2403.16971)

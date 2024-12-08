@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student at the [Department of Computer Science, Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). Currently, I am working closely with [Prof. Yongfeng Zhang](https://www.yongfeng.me/) on XAI, LLM-based Agents, Data Mining. My research interests lie in Explainable AI(XAI), Trustworthy Agents, and AI4Science, emphasizing large language models(LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/). I was an intern student guided by [Prof. Mengnan Du](https://mengnandu.com/) worked in XAI before I received my PhD offer.
+I am a first-year PhD student at the [Department of Computer Science, Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). Currently, I am working closely with [Prof. Yongfeng Zhang](https://www.yongfeng.me/) on XAI, LLM-based Agents, Data Mining. My research interests lie in Explainable AI(XAI), emphasizing large language models(LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/). I was an intern student guided by [Prof. Mengnan Du](https://mengnandu.com/) worked in XAI before I received my PhD offer.
 
 
 ## Research Interests
@@ -12,6 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
 
 ## News
+- **[11/2024]** One paper was accepted by **SIGKDD Explorations Newsletter**
 - **[11/2024]** Check our new preprint about [Disentangling Memory and Reasoning in LLM](https://arxiv.org/abs/2411.13504)
 - **[11/2024]** One paper was accepted by **COLING 2025**
 - **[11/2024]** Check our new version of the paper [LLM Agent Operating System](https://arxiv.org/abs/2403.16971)

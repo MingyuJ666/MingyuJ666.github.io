@@ -30,3 +30,7 @@
 - [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction](https://arxiv.org/abs/2403.07311) (**ACML 2024**)
 
   Dong Shu, Tianle Chen, **Mingyu Jin**, Chong Zhang, Mengnan Du, Yongfeng Zhang
+
+- [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/abs/2402.10835) (**ACM SIGKDD Explorations**)
+
+  Hua Tang, Chong Zhang, **Mingyu Jin**, Qinkai Yu, Zhenting Wang, Yongfeng Zhang, Mengnan Du

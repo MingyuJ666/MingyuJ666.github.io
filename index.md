@@ -40,7 +40,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 
 
 ## Services
-- Conference reviewing: RecSys 2024, NeurIPS 2024, ICLR 2024
+- Conference reviewing: RecSys 2024, NeurIPS 2024, ICLR 2024, ACL ARR 2025
 - Journal reviewing: ACM TORS
   
 {% include_relative _includes/publication.md %}

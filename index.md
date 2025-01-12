@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student at the [Department of Computer Science, Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). Currently, I am working closely with [Prof. Yongfeng Zhang](https://www.yongfeng.me/) on XAI, Data Mining. My research interests lie in Explainable AI(XAI), emphasizing large language models(LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/). I was an intern student guided by [Prof. Mengnan Du](https://mengnandu.com/) worked in XAI before I received my PhD offer.
+I am a first-year PhD student at the [Department of Computer Science, Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). My research interests lie in Explainable AI(XAI), emphasizing large language models(LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/).
 
 
 ## Research Interests

@@ -1,7 +1,15 @@
 ## Publication
+- [Visual agents as fast and slow thinkers](https://arxiv.org/abs/2408.08862) (**ICLR 2025**)
+
+  Guangyan Sun🌟, **Mingyu Jin🌟**, Zhenting Wang, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu
+  
+- [From Commands to Prompts: LLM-based Semantic File System for AIOS](https://arxiv.org/abs/2410.11843) (**ICLR 2025**)
+
+  Zeru Shi, Kai Mei, **Mingyu Jin**, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang
+
 - [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066) (**COLING 2025**)
 
-  **Mingyu Jin🌟**, Qinkai Yu🌟, Jingyuan Huang🌟, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
+  **Mingyu Jin**, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
   
 - [Adaptive Axes: A Pipeline for In-domain Social Stereotype Analysis](https://aclanthology.org/2024.emnlp-main.872/) (**EMNLP 2024**)
 

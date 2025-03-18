@@ -42,3 +42,11 @@
 - [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/abs/2402.10835) (**ACM SIGKDD Explorations**)
 
   Hua Tang, Chong Zhang, **Mingyu Jin**, Qinkai Yu, Zhenting Wang, Yongfeng Zhang, Mengnan Du
+
+- [AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](https://arxiv.org/abs/2401.09002) (**ACM SIGKDD Explorations**)
+
+  Dong Shu, Chong Zhang, **Mingyu Jin**, Zihao Zhou, Lingyao Li, Yongfeng Zhang
+
+- [EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868) (**NAACL 2025**)
+
+  Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang

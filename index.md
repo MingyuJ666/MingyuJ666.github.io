@@ -12,7 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
 
 ## News
-- **[3/2025]** One paper was accepted by **ACS NANO (IF=15.9)** about Interpretable Machine Learning for Nanogenerators Structural Design
+- **[3/2025]** One paper was accepted by **ACS NANO (IF=15.9)** about Interpretable ML for Nanogenerators Structural Design
 - **[3/2025]** One paper was accepted by **SIGKDD Explorations Newsletter**
 - **[1/2025]** One papers accepted by **NAACL 2025** Congratulation to Sam, Zhenting and Wenyue
 - **[1/2025]** Two papers accepted by **ICLR 2025** Congratulation to Guangyan, Zeru, Kai

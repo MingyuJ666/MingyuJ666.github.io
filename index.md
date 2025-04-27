@@ -35,11 +35,10 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 - **[05/2024]** One paper was accepted by **ACL 2024**, thanks@Qinkai 
 - **[04/2024]** Check Our Preprint: [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066#:~:text=10%20Apr%202024%5D-,Exploring%20Concept%20Depth%3A%20How%20Large%20Language,Acquire%20Knowledge%20at%20Different%20Layers%3F&text=This%20paper%20studies%20the%20phenomenon,fully%20acquired%20with%20deeper%20layers.) about the concept depth in LLM.
 - **[02/2024]** Give a talk@Zhiyuan 
-- **[02/2024]** Get my PhD offer from Rutgers University!!! I will join the WISE lab in 2024 fall.
+- **[02/2024]** Get my PhD offer from Rutgers University. I will join the WISE lab in the fall of 2024.
 - **[01/2024]** Check Our Preprint: [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/pdf/2401.04925.pdf) about how Cot works.
 - **[12/2023]** One paper was accepted by **AAAI 2024**
-- **[09/2023]** Started my visit to Northwestern University!!!
-- **[07/2023]** One paper was accepted by **ICONIP 2023**.
+
 
 
 ## Services

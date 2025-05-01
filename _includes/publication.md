@@ -1,4 +1,8 @@
 ## Publication
+- [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://arxiv.org/abs/2502.01563) (**ICML 2025**)
+
+ **Mingyu Jin**, Kai Mei, Wujiang Xu, Mingjie Sun, Ruixiang Tang, Mengnan Du, Zirui liu, Yongfeng Zhang
+  
 - [Visual agents as fast and slow thinkers](https://arxiv.org/abs/2408.08862) (**ICLR 2025**)
 
   Guangyan Sun🌟, **Mingyu Jin🌟**, Zhenting Wang, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu

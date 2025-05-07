@@ -12,7 +12,8 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
 
 ## News
-- **[5/2025]** One paper was accepted by **ICML 2025**
+- **[5/2025]** **Massive Values in Self-Attention Modules (ICML 2025)** was reported by [jiqizhixin](https://www.jiqizhixin.com/articles/2025-05-06-6)
+- **[5/2025]** One paper was accepted by **ICML 2025**	
 - **[3/2025]** One paper was accepted by **ACS NANO (IF=15.9)** about Interpretable ML for Nanogenerators Structural Design
 - **[3/2025]** One paper was accepted by **SIGKDD Explorations Newsletter**
 - **[1/2025]** One papers accepted by **NAACL 2025** Congratulation to Sam, Zhenting and Wenyue

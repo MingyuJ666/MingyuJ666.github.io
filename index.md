@@ -12,6 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
 
 ## News
+- **[5/2025]** Two paper was accepted by **ACL 2025**	
 - **[5/2025]** **Massive Values in Self-Attention Modules... (ICML 2025)** was reported by [this website](https://www.jiqizhixin.com/articles/2025-05-06-6)
 - **[5/2025]** One paper was accepted by **ICML 2025**	
 - **[3/2025]** One paper was accepted by **ACS NANO (IF=15.9)** about Interpretable ML for Nanogenerators Structural Design
@@ -23,7 +24,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 - **[11/2024]** One paper was accepted by **COLING 2025**
 - **[11/2024]** Check our new version of the paper [LLM Agent Operating System](https://arxiv.org/abs/2403.16971)
 - **[10/2024]** One paper was accepted by **EMNLP 2024 Demo Track**
-- **[09/2024]** Two paper was accepted by **EMNLP 2024**
+- **[09/2024]** One paper was accepted by **EMNLP 2024**
 - **[09/2024]** One paper was accepted by **ICDM 2024**
 - **[09/2024]** One paper was accepted by **ACML 2024**
 - **[08/2024]** One survey was accepted by **Journal of Healthcare Informatics Research(IF=5.7)**

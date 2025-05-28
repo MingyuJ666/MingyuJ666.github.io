@@ -8,12 +8,14 @@
   [![Website](https://img.shields.io/badge/Project-Homepage-0A7EB4?logo=google-chrome&logoColor=white)](https://mingyuj666.github.io/massive_value/)
 - [Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504) (**ACL 2025**)
 
-  **Mingyu Jin**, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng ZhangZhang
+  **Mingyu Jin**, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang
   
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/Rope_with_LLM) 
 - [Visual agents as fast and slow thinkers](https://arxiv.org/abs/2408.08862) (**ICLR 2025**)
 
-  Guangyan Sun🌟, **Mingyu Jin🌟**, Zhenting Wang, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu
-  
+  Guangyan Sun🌟, **Mingyu Jin🌟**, Zhenting Wang, Chenglong Wang, Siqi Ma, Qifan Wang, YingNian Wu, Yongfeng Zhang, Dongfang Liu
+
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/GuangyanS/Sys2-LLaVA) 
 - [From Commands to Prompts: LLM-based Semantic File System for AIOS](https://arxiv.org/abs/2410.11843) (**ICLR 2025**)
 
   Zeru Shi, Kai Mei, **Mingyu Jin**, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang
@@ -21,7 +23,10 @@
 - [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066) (**COLING 2025**)
 
   **Mingyu Jin**, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
-
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/Luckfort/CD) &nbsp;&nbsp;
+  [![Website](https://img.shields.io/badge/Project-Homepage-0A7EB4?logo=google-chrome&logoColor=white)](https://luckfort.github.io/explore_CD/)
+  
 - [EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868) (**NAACL 2025**)
 
   Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang

@@ -1,8 +1,11 @@
-## Publication
+# Selected Publication
+## 2025
 - [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://arxiv.org/abs/2502.01563) (**ICML 2025**)
 
   **Mingyu Jin**, Kai Mei, Wujiang Xu, Mingjie Sun, Ruixiang Tang, Mengnan Du, Zirui liu, Yongfeng Zhang
-
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/Rope_with_LLM) &nbsp;&nbsp;
+  [![Website](https://img.shields.io/badge/Project-Homepage-0A7EB4?logo=google-chrome&logoColor=white)](https://mingyuj666.github.io/massive_value/)
 - [Disentangling Memory and Reasoning Ability in Large Language Models](https://arxiv.org/abs/2411.13504) (**ACL 2025**)
 
   **Mingyu Jin**, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng ZhangZhang
@@ -18,11 +21,12 @@
 - [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066) (**COLING 2025**)
 
   **Mingyu Jin**, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
-  
-- [Adaptive Axes: A Pipeline for In-domain Social Stereotype Analysis](https://aclanthology.org/2024.emnlp-main.872/) (**EMNLP 2024**)
 
-  Qingcheng Zeng, **Mingyu Jin**, Rob Voigt
-  
+- [EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868) (**NAACL 2025**)
+
+  Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang
+## 2024
+
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586) (**EMNLP Findings 2024**)
 
   Wenyue Hua, Xianjun Yang, **Mingyu Jin**, Wei Cheng, Ruixiang Tang, Yongfeng Zhang
@@ -31,10 +35,6 @@
 
   **Mingyu Jin**, Haochen Xue, Zhenting Wang, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang
   
-- Target-driven Attack for Large Language Models (**ECAI 2024**)
-
-  Chong Zhang, **Mingyu Jin**, Dong Shu, Taowen Wang, Dongfang Liu, Jinbo Jin
-
 - [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925) (**ACL Findings 2024**) 
 
   **Mingyu Jin**, Qinkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du
@@ -43,18 +43,9 @@
 
   Zihao Zhou, Qiufeng Wang, **Mingyu Jin**, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang, Kaizhu Huang
 
-- [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction](https://arxiv.org/abs/2403.07311) (**ACML 2024**)
-
-  Dong Shu, Tianle Chen, **Mingyu Jin**, Chong Zhang, Mengnan Du, Yongfeng Zhang
-
 - [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/abs/2402.10835) (**ACM SIGKDD Explorations**)
 
   Hua Tang, Chong Zhang, **Mingyu Jin**, Qinkai Yu, Zhenting Wang, Yongfeng Zhang, Mengnan Du
 
-- [AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models](https://arxiv.org/abs/2401.09002) (**ACM SIGKDD Explorations**)
 
-  Dong Shu, Chong Zhang, **Mingyu Jin**, Zihao Zhou, Lingyao Li, Yongfeng Zhang
 
-- [EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868) (**NAACL 2025**)
-
-  Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang

@@ -1,5 +1,5 @@
-# Selected Publication
-## 2025
+## Selected Publication
+### 2025
 - [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://arxiv.org/abs/2502.01563) (**ICML 2025**)
 
   **Mingyu Jin**, Kai Mei, Wujiang Xu, Mingjie Sun, Ruixiang Tang, Mengnan Du, Zirui liu, Yongfeng Zhang
@@ -30,7 +30,7 @@
 - [EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868) (**NAACL 2025**)
 
   Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang
-## 2024
+### 2024
 
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586) (**EMNLP Findings 2024**)
 

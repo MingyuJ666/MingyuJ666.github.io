@@ -38,15 +38,19 @@
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586) (**EMNLP Findings 2024**)
 
   Wenyue Hua, Xianjun Yang, **Mingyu Jin**, Wei Cheng, Ruixiang Tang, Yongfeng Zhang
-  
+
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/TrustAgent) &nbsp;&nbsp;
 - [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1) (**COLM 2024**)
 
   **Mingyu Jin**, Haochen Xue, Zhenting Wang, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang
-  
+
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/ProLLM) &nbsp;&nbsp;
+  [![Website](https://img.shields.io/badge/Project-Homepage-0A7EB4?logo=google-chrome&logoColor=white)](https://tiuxuxsh76075.github.io/prollm.github.io/)
 - [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/abs/2401.04925) (**ACL Findings 2024**) 
 
   **Mingyu Jin**, Qinkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du
-
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models) 
 - [MathAttack: Attacking Large Language Models towards Math Solving Ability](https://ojs.aaai.org/index.php/AAAI/article/view/29949) (**AAAI 2024**)
 
   Zihao Zhou, Qiufeng Wang, **Mingyu Jin**, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang, Kaizhu Huang

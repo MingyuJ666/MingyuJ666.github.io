@@ -20,6 +20,7 @@
 
   Zeru Shi, Kai Mei, **Mingyu Jin**, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang
 
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/AIOS-LSFS) 
 - [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/abs/2404.07066) (**COLING 2025**)
 
   **Mingyu Jin**, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
@@ -30,6 +31,8 @@
 - [EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models](https://arxiv.org/abs/2402.05868) (**NAACL 2025**)
 
   Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang
+
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/EmojiCrypt) 
 ### 2024
 
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586) (**EMNLP Findings 2024**)

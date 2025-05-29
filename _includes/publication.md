@@ -10,7 +10,14 @@
 
   **Mingyu Jin**, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang
   
-  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/Rope_with_LLM) 
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/Rope_with_LLM)
+
+ - [Disentangling Logic: The Role of Context in Large Language Model Reasoning Capabilities](https://arxiv.org/pdf/2406.02787) (**ACL Findings 2025**)
+
+   Wenyue Hua, Kaijie Zhu, Lingyao Li, Lizhou Fan, Shuhang Lin, **Mingyu Jin**, Haochen Xue, Zelong Li, JinDong Wang, Yongfeng Zhang
+
+   [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/ContextHub)
+  
 - [Visual agents as fast and slow thinkers](https://arxiv.org/abs/2408.08862) (**ICLR 2025**)
 
   Guangyan Sun🌟, **Mingyu Jin🌟**, Zhenting Wang, Chenglong Wang, Siqi Ma, Qifan Wang, YingNian Wu, Yongfeng Zhang, Dongfang Liu
@@ -32,7 +39,10 @@
 
   Guo Lin, Wenyue Hua, Zhenting Wang, **Mingyu Jin**, Yongfeng Zhang
 
-  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/EmojiCrypt) 
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/EmojiCrypt)
+
+
+
 ### 2024
 
 - [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586) (**EMNLP Findings 2024**)

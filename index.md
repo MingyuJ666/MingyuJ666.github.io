@@ -15,8 +15,8 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 - **[5/2025]** Two paper was accepted by **ACL 2025**	
 - **[5/2025]** One paper was accepted by **ICML 2025**	
 - **[3/2025]** two paper was accepted by **SIGKDD Explorations Newsletter**
-- **[1/2025]** One papers accepted by **NAACL 2025** Congratulation to Sam, Zhenting and Wenyue
-- **[1/2025]** Two papers accepted by **ICLR 2025** Congratulation to Guangyan, Zeru, Kai
+- **[1/2025]** One papers accepted by **NAACL 2025** 
+- **[1/2025]** Two papers accepted by **ICLR 2025** 
 - **[12/2024]** One paper was accepted by **SIGKDD Explorations Newsletter**
 - **[11/2024]** Check our new preprint about [Disentangling Memory and Reasoning in LLM](https://arxiv.org/abs/2411.13504)
 - **[11/2024]** One paper was accepted by **COLING 2025**

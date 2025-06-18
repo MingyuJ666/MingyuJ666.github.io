@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student at the [Department of Computer Science, Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). My research interests lie in Explainable AI(XAI), emphasizing large language models(LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/).
+I am a first-year PhD student at the [Department of Computer Science, Rutgers University-New Brunswick](https://newbrunswick.rutgers.edu/). My research interests lie in Explainable AI (XAI), with a focus on large language models (LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/).
 
 
 ## Research Interests
 
-**Explainable AI**, **Natural Language Processing**, **Interpretability**, **Data Mining**
+**Explainable AI**, **Natural Language Processing**, **Interpretability**, **Reason and Memory**
 
 ## News
 - **[5/2025]** Two paper was accepted by **ACL 2025**	

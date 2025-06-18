@@ -30,7 +30,8 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 - **[01/2024]** Check Our Preprint: [The Impact of Reasoning Step Length on Large Language Models](https://arxiv.org/pdf/2401.04925.pdf) about how Cot works.
 - **[12/2023]** One paper was accepted by **AAAI 2024**
 
-
+## Internship
+- **NEC Labs America**: Research Intern Advised by [Wei Cheng](https://sites.google.com/site/weichengunc/welcome-to-wei-chengs-homepage), Princeton, NJ, June 2025 - Aug 2025
 
 ## Services
 - Conference reviewing: RecSys 2024, NeurIPS 2024, ICLR 2024, ACL 2025, NeurIPS 2025, COLM 2025, EMNLP 2025, ACL ARR

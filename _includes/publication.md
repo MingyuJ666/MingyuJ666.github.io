@@ -41,7 +41,14 @@
 
   [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/EmojiCrypt)
 
+- [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971) (**COLM 2025**)
 
+   Kai Mei, Xi Zhu, Wujiang Xu, Wenyue Hua, **Mingyu Jin**, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/AIOS) &nbsp;&nbsp;
+  [![Website](https://img.shields.io/badge/Project-Homepage-0A7EB4?logo=google-chrome&logoColor=white)](https://www.aios.foundation/)
+
+  
 
 ### 2024
 

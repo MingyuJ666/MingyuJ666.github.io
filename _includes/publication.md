@@ -17,6 +17,13 @@
    Wenyue Hua, Kaijie Zhu, Lingyao Li, Lizhou Fan, Shuhang Lin, **Mingyu Jin**, Haochen Xue, Zelong Li, JinDong Wang, Yongfeng Zhang
 
    [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/ContextHub)
+
+- [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282?) (**CIKM short 2025**)
+
+  Qingcheng Zeng, **Mingyu Jin**, Qinkai Yu, Zhenting Wang, Wenyue Hua, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang
+
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/qcznlp/uncertainty_attack) 
+
   
 - [Visual agents as fast and slow thinkers](https://arxiv.org/abs/2408.08862) (**ICLR 2025**)
 

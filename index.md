@@ -12,7 +12,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Reason and Memory**
 
 ## News
-- **[9/2025]** One paper was accepted by **ENMLP 2025**.	
+- **[9/2025]** One paper was accepted by **ENMLP 2025**	
 - **[8/2025]** One paper was accepted by **CIKM 2025** as short paper.	
 - **[7/2025]** One paper was accepted by **COLM 2025**	
 - **[6/2025]** I will join **NEC Laboratories America** as a research intern this summer.

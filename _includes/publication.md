@@ -18,6 +18,10 @@
 
    [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/agiresearch/ContextHub)
 
+ - [SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/abs/2505.16188) (**EMNLP 2025**)
+
+   Zirui He, **Mingyu Jin**,  Bo Shen, Ali Payani, Yongfeng Zhang, Mengnan Du
+   
 - [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282?) (**CIKM short 2025**)
 
   Qingcheng Zeng, **Mingyu Jin**, Qinkai Yu, Zhenting Wang, Wenyue Hua, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang

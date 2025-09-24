@@ -38,7 +38,7 @@ I am a first-year PhD student at the [Department of Computer Science, Rutgers Un
 - **NEC Labs America**: Research Intern Advised by [Wei Cheng](https://sites.google.com/site/weichengunc/welcome-to-wei-chengs-homepage), Princeton, NJ, June 2025 - Aug 2025
 
 ## Services
-- Conference reviewing: RecSys 2024, NeurIPS 2024, ICLR 2024, ACL 2025, NeurIPS 2025, COLM 2025, EMNLP 2025, ACL ARR
+- Conference reviewing: RecSys 2024, NeurIPS 2024, ICLR 2025, NAACL2025, ACL 2025, NeurIPS 2025, COLM 2025, EMNLP 2025, EACL 2026, AAAI 2026, ICLR 2026, ACL ARR
 - Journal reviewing: ACM TORS
   
 {% include_relative _includes/publication.md %}

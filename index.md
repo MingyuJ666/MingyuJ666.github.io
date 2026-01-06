@@ -12,6 +12,7 @@ I am a second-year Graduate student at the [Department of Computer Science, Rutg
 **Explainable AI**, **Natural Language Processing**, **Interpretability**, **Reason and Memory**
 
 ## News
+- **[1/2026]** One paper was accepted by **EACL 2026** Industry Track.
 - **[9/2025]** One paper was accepted by **ENMLP 2025**	
 - **[8/2025]** One paper was accepted by **CIKM 2025** as short paper.	
 - **[7/2025]** One paper was accepted by **COLM 2025**	

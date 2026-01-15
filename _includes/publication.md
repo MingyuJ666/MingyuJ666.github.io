@@ -1,4 +1,13 @@
 ## Selected Publication
+### 2026
+- [SAGE: An Agentic Explainer Framework for Interpreting SAE Features in Language Models](https://arxiv.org/abs/2502.01563) (**EACL 2026 Industry Track**)
+
+  Jiaojiao Han, Wujiang Xu, **Mingyu Jin**, Mengnan Du
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/jiujiubuhejiu/SAGE) &nbsp;&nbsp;
+
+
+
 ### 2025
 - [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://arxiv.org/abs/2502.01563) (**ICML 2025**)
 
@@ -21,7 +30,8 @@
  - [SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/abs/2505.16188) (**EMNLP 2025**)
 
    Zirui He, **Mingyu Jin**,  Bo Shen, Ali Payani, Yongfeng Zhang, Mengnan Du
-   
+
+   [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/Ineedanamehere/SAE-SSV) &nbsp;&nbsp;
 - [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282?) (**CIKM short 2025**)
 
   Qingcheng Zeng, **Mingyu Jin**, Qinkai Yu, Zhenting Wang, Wenyue Hua, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang

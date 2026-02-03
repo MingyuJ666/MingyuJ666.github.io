@@ -104,7 +104,7 @@
 
   Zihao Zhou, Qiufeng Wang, **Mingyu Jin**, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang, Kaizhu Huang
 
-  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)]([https://github.com/rutgerswiselab/KG-LLM](https://github.com/zhouzihao501/MathAttack)) &nbsp;&nbsp;
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/zhouzihao501/MathAttack)
 
 - [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/abs/2402.10835) (**ACM SIGKDD Explorations**)
 

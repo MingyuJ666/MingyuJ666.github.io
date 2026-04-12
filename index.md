@@ -36,6 +36,7 @@ I am a second-year Graduate student at the [Department of Computer Science, Rutg
 - **[12/2023]** One paper was accepted by **AAAI 2024**
 
 ## Internship
+- **Adobe Reasearch**: Research Intern Advised by [Jing Shi](https://research.adobe.com/person/jing-shi/),  San Jose, CA, June 2026 - Aug 2026
 - **NEC Labs America**: Research Intern Advised by [Wei Cheng](https://sites.google.com/site/weichengunc/welcome-to-wei-chengs-homepage), Princeton, NJ, June 2025 - Aug 2025
 
 ## Services

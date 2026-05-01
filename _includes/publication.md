@@ -1,6 +1,13 @@
 ## Selected Publication
 ### 2026
 
+- All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs (**ICML 2026**)
+
+  Xi Chen🌟, **Mingyu Jin🌟**, Jingcheng Niu, Yutong Yin, Jinman Zhao, Bangwei Guo, Dimitris N. Metaxas, Zhaoran Wang, Yutao Yue, Gerald Penn
+  
+
+
+
 - [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](https://arxiv.org/abs/2504.03635) (**ICML 2026**)
 
   Xinyi Wang, Shawn Tan, Shenbo Xu, **Mingyu Jin**, William Yang Wang, Rameswar Panda, Yikang Shen

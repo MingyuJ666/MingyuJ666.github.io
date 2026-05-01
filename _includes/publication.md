@@ -1,5 +1,14 @@
 ## Selected Publication
 ### 2026
+
+- [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](https://arxiv.org/abs/2504.03635) (**ICML 2026**)
+
+  Xinyi Wang, Shawn Tan, Shenbo Xu, **Mingyu Jin**, William Yang Wang, Rameswar Panda, Yikang Shen
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/WANGXinyiLinda/reasoning-scaling-law) &nbsp;&nbsp;
+
+
+
 - [SAGE: An Agentic Explainer Framework for Interpreting SAE Features in Language Models](https://arxiv.org/abs/2502.01563) (**EACL 2026 Industry Track**)
 
   Jiaojiao Han, Wujiang Xu, **Mingyu Jin**, Mengnan Du

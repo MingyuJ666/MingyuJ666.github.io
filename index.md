@@ -9,7 +9,7 @@ I am a second-year Graduate student at the [Department of Computer Science, Rutg
 
 ## Research Interests
 
-**Explainable AI**, **Natural Language Processing**, **Interpretability**, **Reason and Memory**, **Sparse AutoEncoders**
+**Natural Language Processing**, **Interpretability**, **Sparse AutoEncoders**
 
 ## News
 - **[4/2026]** Two paper was accepted by **ICML 2026**.

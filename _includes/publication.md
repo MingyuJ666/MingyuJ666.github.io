@@ -1,11 +1,11 @@
 ## Selected Publication
 ### 2026
 
-- All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs (**ICML 2026**)
+- [All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](https://arxiv.org/abs/2605.12671) (**ICML 2026**)
 
-  Xi Chen🌟, **Mingyu Jin🌟**, Jingcheng Niu, Yutong Yin, Jinman Zhao, Bangwei Guo, Dimitris N. Metaxas, Zhaoran Wang, Yutao Yue, Gerald Penn
+  Xi Chen🌟, **Mingyu Jin🌟**, Jingcheng Niu🌟, Yutong Yin, Jinman Zhao, Bangwei Guo, Dimitris N. Metaxas, Zhaoran Wang, Yutao Yue, Gerald Penn
   
-
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/TonyXiChen/OASR) &nbsp;&nbsp;
 
 
 - [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](https://arxiv.org/abs/2504.03635) (**ICML 2026**)

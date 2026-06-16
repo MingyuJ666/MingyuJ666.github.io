@@ -13,6 +13,7 @@ I am a second-year Graduate student at the [Department of Computer Science, Rutg
 
 ## News
 - **[6/2026]** One paper was accepted by **ACM TIST**.
+- **[6/2026]** I will join **Adobe Research** as a research intern this summer.
 - **[4/2026]** Two paper was accepted by **ICML 2026**.
 - **[1/2026]** One paper was accepted by **EACL 2026** Industry Track.
 - **[9/2025]** One paper was accepted by **ENMLP 2025**	

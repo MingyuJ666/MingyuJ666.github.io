@@ -9,7 +9,7 @@ I received my M.S. in Computer Science from [Rutgers University–New Brunswick]
 
 ## Research Interests
 
-**Natural Language Processing**, **Interpretability**, **Sparse AutoEncoders**
+**Mechanistic Interpretability**, **Sparse Autoencoders (SAEs)**, **Science of LLMs**, **Learning Theory**
 
 ## News
 - **[6/2026]** One paper was accepted by **ACM TIST**.

@@ -1,6 +1,13 @@
 ## Selected Publication
 ### 2026
 
+- [Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs](https://arxiv.org/abs/2603.03415) (**NeurIPS 2026**)
+
+  **Mingyu Jin**, Yutong Yin, Jingcheng Niu, Qingcheng Zeng, Wujiang Xu, Mengnan Du, Wei Cheng, Zhaoran Wang, Tianlong Chen, Dimitris N. Metaxas
+  
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/MingyuJ666/sparsityLLM) &nbsp;&nbsp;
+
+
 - [All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](https://arxiv.org/abs/2605.12671) (**ICML 2026**)
 
   Xi Chen🌟, **Mingyu Jin🌟**, Jingcheng Niu🌟, Yutong Yin, Jinman Zhao, Bangwei Guo, Dimitris N. Metaxas, Zhaoran Wang, Yutao Yue, Gerald Penn

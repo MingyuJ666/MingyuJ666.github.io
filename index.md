@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received my M.S. in Computer Science from [Rutgers University–New Brunswick](https://newbrunswick.rutgers.edu/), where I worked on interpretability under the supervision of Professor Dimitris. My research interests lie in Explainable AI (XAI), with a focus on large language models (LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/). I currently have the privilege of working on optimization and theory under the guidance of Professor [Zhaoran Wang](https://zhaoranwang.github.io/). I also work on interpretability with Professor [Zhuoran Yang](https://zhuoranyang.github.io/).
+I received my M.S. in Computer Science from [Rutgers University–New Brunswick](https://newbrunswick.rutgers.edu/), where I worked on interpretability under the supervision of Professor [Dimitris](https://dimitris.metaxas.cs.rutgers.edu/). My research interests lie in Explainable AI (XAI), with a focus on large language models (LLMs). Before that, I obtained my bachelor's degree from [the University of Liverpool](https://www.liverpool.ac.uk/). I currently have the privilege of working on optimization and theory under the guidance of Professor [Zhaoran Wang](https://zhaoranwang.github.io/). I also work on interpretability with Professor [Zhuoran Yang](https://zhuoranyang.github.io/).
 
 
 ## Research Interests

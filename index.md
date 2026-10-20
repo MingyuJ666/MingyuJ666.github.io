@@ -13,28 +13,17 @@ I received my M.S. in Computer Science from [Rutgers University–New Brunswick]
 
 ### Research Overview
 
-```text
-LLM Interpretability & Science of LLMs
-│
-├── Probing Representations
-│   └── Concept Depth
-│       Where do concepts emerge across model layers?
-│
-├── Explaining Features
-│   └── SAGE [SAE]
-│       Propose, test, and refine feature explanations
-│
-├── Steering Behavior
-│   └── SAE-SSV [SAE]
-│       Learn steering vectors in sparse subspaces
-│
-└── Discovering Internal Mechanisms
-    ├── Massive Values
-    │   Attention Q/K, RoPE, and contextual knowledge
-    │
-    └── Farther the Shift, Sparser the Representation
-        OOD shift, hidden-state sparsity, and ICL
-```
+<div style="font-family:Arial,Helvetica,sans-serif;margin:22px 0 32px;">
+<div style="background:#10365b;color:#fff;border-radius:14px;padding:22px 24px;text-align:center;"><div style="font-size:11px;letter-spacing:2px;color:#bdd5ed;margin-bottom:8px;">RESEARCH MAP</div><div style="font-size:22px;font-weight:700;line-height:1.35;">LLM Interpretability</div><div style="font-size:14px;color:#d4e5f5;margin-top:6px;">Understanding representations, mechanisms, and behavior</div></div>
+<div style="height:22px;border-left:2px solid #b8c9da;margin-left:50%;"></div>
+<div style="display:flex;flex-wrap:wrap;gap:14px;border-top:2px solid #b8c9da;padding-top:18px;">
+<div style="flex:1 1 240px;min-width:0;box-sizing:border-box;background:#f8fafc;border:1px solid #e2e8f0;border-left:4px solid #2563eb;border-radius:10px;padding:17px 18px;"><div style="font-size:11px;letter-spacing:1.5px;color:#2563eb;font-weight:700;margin-bottom:7px;">01</div><div style="font-size:16px;font-weight:700;color:#17324d;margin-bottom:7px;">Probing Representations</div><div style="font-size:13px;line-height:1.5;color:#526477;margin-bottom:13px;">Locate concepts across model layers.</div><div style="margin-top:10px;font-size:14px;line-height:1.6;"><a href="https://arxiv.org/abs/2404.07066" style="color:#2563eb;font-weight:600;text-decoration:none;">Concept Depth</a><br><span style="display:inline-block;font-size:11px;font-weight:600;color:#475569;background:#e8eef5;border-radius:5px;padding:2px 6px;margin-top:4px;">【COLING ’25】</span></div></div>
+<div style="flex:1 1 240px;min-width:0;box-sizing:border-box;background:#f8fafc;border:1px solid #e2e8f0;border-left:4px solid #7c3aed;border-radius:10px;padding:17px 18px;"><div style="font-size:11px;letter-spacing:1.5px;color:#7c3aed;font-weight:700;margin-bottom:7px;">02</div><div style="font-size:16px;font-weight:700;color:#17324d;margin-bottom:7px;">Explaining SAE Features</div><div style="font-size:13px;line-height:1.5;color:#526477;margin-bottom:13px;">Generate, test, and refine feature explanations.</div><div style="margin-top:10px;font-size:14px;line-height:1.6;"><a href="https://aclanthology.org/2026.eacl-industry.37/" style="color:#7c3aed;font-weight:600;text-decoration:none;">SAGE</a><br><span style="display:inline-block;font-size:11px;font-weight:600;color:#475569;background:#e8eef5;border-radius:5px;padding:2px 6px;margin-top:4px;">【EACL ’26 · Industry】</span></div></div>
+<div style="flex:1 1 240px;min-width:0;box-sizing:border-box;background:#f8fafc;border:1px solid #e2e8f0;border-left:4px solid #0f766e;border-radius:10px;padding:17px 18px;"><div style="font-size:11px;letter-spacing:1.5px;color:#0f766e;font-weight:700;margin-bottom:7px;">03</div><div style="font-size:16px;font-weight:700;color:#17324d;margin-bottom:7px;">Steering with SAEs</div><div style="font-size:13px;line-height:1.5;color:#526477;margin-bottom:13px;">Control behavior through sparse subspaces.</div><div style="margin-top:10px;font-size:14px;line-height:1.6;"><a href="https://arxiv.org/abs/2505.16188" style="color:#0f766e;font-weight:600;text-decoration:none;">SAE-SSV</a><br><span style="display:inline-block;font-size:11px;font-weight:600;color:#475569;background:#e8eef5;border-radius:5px;padding:2px 6px;margin-top:4px;">【EMNLP ’25】</span></div></div>
+<div style="flex:1 1 240px;min-width:0;box-sizing:border-box;background:#f8fafc;border:1px solid #e2e8f0;border-left:4px solid #b45309;border-radius:10px;padding:17px 18px;"><div style="font-size:11px;letter-spacing:1.5px;color:#b45309;font-weight:700;margin-bottom:7px;">04</div><div style="font-size:16px;font-weight:700;color:#17324d;margin-bottom:7px;">Circuit Discovery</div><div style="font-size:13px;line-height:1.5;color:#526477;margin-bottom:13px;">Study distinct circuits that support the same task.</div><div style="margin-top:10px;font-size:14px;line-height:1.6;"><a href="https://arxiv.org/abs/2605.12671" style="color:#b45309;font-weight:600;text-decoration:none;">All Circuits Lead to Rome</a><br><span style="display:inline-block;font-size:11px;font-weight:600;color:#475569;background:#e8eef5;border-radius:5px;padding:2px 6px;margin-top:4px;">【ICML ’26】</span></div></div>
+<div style="flex:1 1 240px;min-width:0;box-sizing:border-box;background:#f8fafc;border:1px solid #e2e8f0;border-left:4px solid #be185d;border-radius:10px;padding:17px 18px;"><div style="font-size:11px;letter-spacing:1.5px;color:#be185d;font-weight:700;margin-bottom:7px;">05</div><div style="font-size:16px;font-weight:700;color:#17324d;margin-bottom:7px;">Discovering Internal Mechanisms</div><div style="font-size:13px;line-height:1.5;color:#526477;margin-bottom:13px;">Connect internal activation patterns to model behavior.</div><div style="margin-top:10px;font-size:14px;line-height:1.6;"><a href="https://arxiv.org/abs/2502.01563" style="color:#be185d;font-weight:600;text-decoration:none;">Massive Values</a><br><span style="display:inline-block;font-size:11px;font-weight:600;color:#475569;background:#e8eef5;border-radius:5px;padding:2px 6px;margin-top:4px;">【ICML ’25】</span></div><div style="margin-top:10px;font-size:14px;line-height:1.6;"><a href="https://arxiv.org/abs/2603.03415" style="color:#be185d;font-weight:600;text-decoration:none;">Farther the Shift, Sparser the Representation</a><br><span style="display:inline-block;font-size:11px;font-weight:600;color:#475569;background:#e8eef5;border-radius:5px;padding:2px 6px;margin-top:4px;">【NeurIPS ’26】</span></div></div>
+</div>
+</div>
 
 ## News
 - **[6/2026]** One paper was accepted by **ACM TIST**.

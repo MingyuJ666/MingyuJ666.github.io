@@ -11,6 +11,31 @@ I received my M.S. in Computer Science from [Rutgers University–New Brunswick]
 
 **Mechanistic Interpretability**, **Sparse Autoencoders (SAEs)**, **Science of LLMs**, **Learning Theory**
 
+### Research Overview
+
+```text
+LLM Interpretability & Science of LLMs
+│
+├── Probing Representations
+│   └── Concept Depth
+│       Where do concepts emerge across model layers?
+│
+├── Explaining Features
+│   └── SAGE [SAE]
+│       Propose, test, and refine feature explanations
+│
+├── Steering Behavior
+│   └── SAE-SSV [SAE]
+│       Learn steering vectors in sparse subspaces
+│
+└── Discovering Internal Mechanisms
+    ├── Massive Values
+    │   Attention Q/K, RoPE, and contextual knowledge
+    │
+    └── Farther the Shift, Sparser the Representation
+        OOD shift, hidden-state sparsity, and ICL
+```
+
 ## News
 - **[6/2026]** One paper was accepted by **ACM TIST**.
 - **[6/2026]** I will join **Adobe Research** as a research intern this summer.

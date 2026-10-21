@@ -1,6 +1,15 @@
 ## Selected Publication
 ### 2026
 
+- [Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](https://arxiv.org/abs/2606.22673) (**NeurIPS 2026**)
+
+  Weidi Luo, Qiming Zhang, Yihao Quan, **Mingyu Jin**, Jie Cai, Chaowei Xiao, Jingcheng Niu, Zhen Xiang
+
+  [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.22673) &nbsp;&nbsp;
+  [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/EddyLuo1232/AgentMechSuits) &nbsp;&nbsp;
+  [![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/EddyLuo/MechanisticAgentSafety) &nbsp;&nbsp;
+  [![Website](https://img.shields.io/badge/Project-Homepage-0A7EB4?logo=google-chrome&logoColor=white)](https://eddyluo.com/Agent-MechSuits/)
+
 - [Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs](https://arxiv.org/abs/2603.03415) (**NeurIPS 2026**)
 
   **Mingyu Jin**, Yutong Yin, Jingcheng Niu, Qingcheng Zeng, Wujiang Xu, Mengnan Du, Wei Cheng, Zhaoran Wang, Tianlong Chen, Dimitris N. Metaxas
@@ -28,7 +37,6 @@
   Jiaojiao Han, Wujiang Xu, **Mingyu Jin**, Mengnan Du
   
   [![Code](https://img.shields.io/badge/Code-on%20GitHub-000?logo=github&logoColor=white)](https://github.com/jiujiubuhejiu/SAGE) &nbsp;&nbsp;
-
 
 
 ### 2025

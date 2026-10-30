@@ -1,5 +1,14 @@
 ## Selected Publication
+
 ### 2026
+
+- [RealControlBench: A Benchmark for Interpretability-Informed Fine-Grained Control of LLMs and Agents](https://arxiv.org/abs/2610.27295) (**arXiv 2026**)
+
+  Xinying Cai, Bin Hu, **Mingyu Jin**, Qiming Zhang, Yang Ouyang, Bangwei Guo, Minghao Guo, Yutong Yin, Lang Gao, Feijiang Han, Sheldon Yu, Kaiqu Liang, Qingcheng Zeng, Jingcheng Niu, Fan Yang, Wei Cheng, Zhen Xiang, Julian McAuley, Zhaoran Wang
+
+  Benchmarks interpretability-informed fine-grained control of LLMs and agents.
+
+  [PDF](https://arxiv.org/pdf/2610.27295) &nbsp;&nbsp; [GitHub](https://github.com/MingyuJ666/ControlBench)
 
 - [Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](https://arxiv.org/abs/2606.22673) (**NeurIPS 2026**)
 
